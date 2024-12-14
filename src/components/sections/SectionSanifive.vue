@@ -1,6 +1,6 @@
 <template lang="pug">
 section(class="mb-[100px] md:mb-[315px]")
-  div(class="container mx-auto px-1")
+  div(class="container mx-auto px-3")
     div(class="flex flex-col items-center gap-[40px] xl:flex-row xl:gap-[77px]")
       div(class="max-w-[490px] xl:max-w-[100%]")
         p(class="text-secondary font-medium mb-[22px] text-[21px]") The best dispenser needs the best 

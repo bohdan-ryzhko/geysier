@@ -1,6 +1,6 @@
 <template lang="pug">
 section(class="mb-[100px] md:mb-[200px]")
-  div(class="container mx-auto px-1")
+  div(class="container mx-auto px-3")
     div(class="flex flex-col-reverse items-center gap-[50px] lg:flex-row lg:gap-[390px] lg:justify-center")
       div(class="box max-w-[380px]")
         h2(class="text-[55px] font-bold text-typographyWhite") Simple 

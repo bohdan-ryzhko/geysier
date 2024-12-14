@@ -1,10 +1,10 @@
 <template lang="pug">
   section(class="mb-[100px] md:mb-[140px]")
-    h2(class="px-1 font-bold text-[55px] text-center mb-[13px] mx-auto text-typographyWhite") Where Geysier is used 
+    h2(class="px-3 font-bold text-[55px] text-center mb-[13px] mx-auto text-typographyWhite") Where Geysier is used 
         span(class="text-accent") today
-    p(class="mx-auto font-medium px-1 max-w-[495px] text-[21px] text-center text-secondary mb-[53px]") Geysier is battle tested at many locations. We are most repesetended at 
+    p(class="mx-auto font-medium px-3 max-w-[495px] text-[21px] text-center text-secondary mb-[53px]") Geysier is battle tested at many locations. We are most repesetended at 
       span(class="text-accent") hotels, offices & HQ’s
-    ul(class="flex px-1 flex-col md:flex-row gap-[47px] justify-center items-center flex-wrap mb-[50px]")
+    ul(class="flex px-3 flex-col md:flex-row gap-[47px] justify-center items-center flex-wrap mb-[50px]")
       li(
         v-for="({ src, alt }, idx) in comapnies" 
         :key="idx"

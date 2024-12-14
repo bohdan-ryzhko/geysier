@@ -1,6 +1,6 @@
 <template lang="pug">
 section
-  div(class="container mx-auto px-1")
+  div(class="container mx-auto px-3")
     h2(class="text-[67px] font-bold text-center mx-auto mb-[23px]") Ready to get your 
       span(class="text-accent") Geysier
       span ?
@@ -10,7 +10,7 @@ section
       span(class="w-[11px] h-[11px] bg-accent rounded-[100%]")
       a(href="tel:4542211312") +45 42 21 13 12
     div(class="max-w-[520px] mx-auto")
-      img(:src="FooterImage" alt="Fooer image" class="w-[100%] h-auto")
+      img(:src="FooterImage" alt="image" class="w-[100%] h-auto")
 
 </template>
 
