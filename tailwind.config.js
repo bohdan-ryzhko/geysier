@@ -9,6 +9,7 @@ export default {
         accent: "#FF3E19",
         typographyTooltip: "#626262",
         borderColor: "#1A1A1A",
+        dark: "#000000",
       },
     },
   },
