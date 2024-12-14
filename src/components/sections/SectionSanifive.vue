@@ -21,9 +21,9 @@ section(class="mb-[100px] md:mb-[315px]")
             v-for="({ src, title }, idx) in units" 
             :key="idx"
           )
-            button(class="flex flex-col items-center justify-center gap-[6px] w-[113px] h-[147px] border border-borderColor rounded-[8px]" type="button")
+            button(class="flex flex-col items-center justify-center gap-[6px] w-[113px] h-[147px] border border-borderColor rounded-[8px] ease-in-out duration-300 hover:border-accent" type="button")
               img(:src="src" :alt="title" class="max-h-[90px] max-w-[40px]")
-              p(class="") {{ title }}
+              p(class="text-secondary font-medium text-[15px]") {{ title }}
 
 </template>
 

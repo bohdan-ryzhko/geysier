@@ -4,7 +4,6 @@ header(class="container mx-auto")
     TheLogo(class="block h-[26px] w-auto shrink-0") 
 
     div(class="inline-flex gap-8 items-center text-secondary ")
-      a(href="/#contacts" class="hover:text-typographyWhite") Contacts
       button(type="button" class="inline-flex gap-4 items-center hover:text-typographyWhite") 
         Bars3Icon(class="w-7 h-7 block")
         span Menu

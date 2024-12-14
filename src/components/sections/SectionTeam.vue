@@ -1,7 +1,7 @@
 <template lang="pug">
 section(class="mb-[100px] md:mb-[120px]")
   div(class="container mx-auto px-3")
-    h2(class="text-[67px] font-bold max-w-[670px] mx-auto text-center mb-[17px]") We have a passion for 
+    h2(class="text-[67px] font-bold max-w-[670px] mx-auto text-center leading-[110%] mb-[17px]") We have a passion for 
       span(class="text-accent") hygiene 
       span & 
       span(class="text-accent") design

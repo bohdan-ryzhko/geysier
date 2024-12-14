@@ -3,9 +3,9 @@ section(class="mb-[100px] md:mb-[200px]")
   div(class="container mx-auto px-3")
     div(class="flex flex-col-reverse items-center gap-[50px] lg:flex-row lg:gap-[390px] lg:justify-center")
       div(class="box max-w-[380px]")
-        h2(class="text-[55px] font-bold text-typographyWhite") Simple 
+        h2(class="text-[55px] font-bold text-typographyWhite leading-[110%]") Simple 
           span(class="text-accent") design 
-        h2(class="text-[55px] font-bold text-typographyWhite mb-[10px]") Simple to 
+        h2(class="text-[55px] font-bold text-typographyWhite leading-[110%] mb-[10px]") Simple to 
           span(class="text-accent") use
         p(class="text-[15px] font-medium flex items-center gap-[18px] mb-[29px] text-typographyTooltip")
           QuestionMark

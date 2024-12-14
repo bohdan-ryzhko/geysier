@@ -1,7 +1,7 @@
 <template lang="pug">
 section
   div(class="container mx-auto px-3")
-    h2(class="text-[67px] font-bold text-center mx-auto mb-[23px]") Ready to get your 
+    h2(class="text-[67px] font-bold text-center mx-auto leading-[110%] mb-[23px]") Ready to get your 
       span(class="text-accent") Geysier
       span ?
     p(class="max-w-[590px] font-medium text-[21px] text-secondary text-center mx-auto mb-[18px]") Contact us today or buy your own at our B2B shop. We are always ready for a talk
