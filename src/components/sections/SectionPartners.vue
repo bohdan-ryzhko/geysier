@@ -1,6 +1,6 @@
 <template lang="pug">
   section(class="mb-[100px] md:mb-[140px]")
-    h2(class="px-3 font-bold text-[55px] text-center mb-[13px] mx-auto text-typographyWhite") Where Geysier is used 
+    h2(class="px-3 font-bold text-[55px] text-center mb-[13px] mx-auto text-typographyWhite leading-[110%]") Where Geysier is used 
         span(class="text-accent") today
     p(class="mx-auto font-medium px-3 max-w-[495px] text-[21px] text-center text-secondary mb-[53px]") Geysier is battle tested at many locations. We are most repesetended at 
       span(class="text-accent") hotels, offices & HQ’s
